@@ -40,4 +40,4 @@
 
 ### Simulation
 
-![Simulation waveform](Screenshot%202026-10-23%20154438.png)
+![Simulation waveform](Screenshot%202026-10-23%20195707.png)
