@@ -36,8 +36,8 @@
 
 ### Schematic
 
-![Schematic Diagram]()
+![Schematic Diagram](Screenshot%202026-10-23%20154456.png)
 
 ### Simulation
 
-![Simulation waveform]()
+![Simulation waveform](Screenshot%202026-10-23%20154438.png)
