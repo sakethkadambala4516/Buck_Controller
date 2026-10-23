@@ -1,4 +1,4 @@
-<img width="1567" height="339" alt="image" src="https://github.com/user-attachments/assets/b7862bc8-b311-4bb8-8dc5-283efe9d3347" /># Buck_Controller
+# Buck_Controller
 
 ### buck_ctrl_top
 
