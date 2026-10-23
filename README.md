@@ -16,3 +16,5 @@
 
 ![Code part 1](Screenshot%202026-10-23%20152002.png)
 ![Code part 2](Screenshot%202026-10-23%20152022.png)
+![Code part 3](Screenshot%202026-10-23%20152038.png)
+![Code part 4](Screenshot%202026-10-23%20152052.png)
