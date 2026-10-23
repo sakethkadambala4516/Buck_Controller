@@ -9,3 +9,4 @@
 ### soft_start_fsm
 
 ![Code part 1](Screenshot%202026-10-23%20151853.png)
+![Code part 2](Screenshot%202026-10-23%20151915.png)
